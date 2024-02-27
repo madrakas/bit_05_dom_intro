@@ -23,7 +23,7 @@ Site published at: [https://madrakas.github.io/05_dom_intro/](https://madrakas.g
 2. [Intro to HTML and CS](https://github.com/madrakas/bit_02_Intro_to_html/)
 3. [HTML and CSS basics, UFO 404 page](https://github.com/madrakas/bit_03_html-ufo)
 4. [HTML and CSS,  Real Estate Website](https://github.com/madrakas/bit_04_html_real_estate/)
-    1. Practice No.1: Photographer website ()
+    1. [Practice No.1: Photographer website](https://github.com/madrakas/bit_04_01_homework_photographer)
     2. [Practice No.2: Collab landing page](https://github.com/madrakas/bit_04_01_homework_colab/)
 5. JavaScript HTML DOM intro (Current repository)
 6. 
