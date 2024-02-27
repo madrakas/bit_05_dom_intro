@@ -89,4 +89,4 @@ Sensei: Rimantas [Github](https://github.com/belauzas)
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
-No other resources.
+[Dead server](https://www.npmjs.com/package/dead-server) - Live server alternative with better maintenance.
