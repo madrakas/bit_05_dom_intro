@@ -17,7 +17,6 @@ Projects porpuses are educational only.
 
 Site published at: [https://madrakas.github.io/05_dom_intro/](https://madrakas.github.io/05_dom_intro/)
 
-Design: [Photographer porfolio](https://dribbble.com/shots/22848649-Webdesign-photographer/)
 
 ## 🧭 Other repositories from same course
 1. [General programming skils and JS](https://github.com/madrakas/bit_01_Intro_to_programming_and_JS/)
