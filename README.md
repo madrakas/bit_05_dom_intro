@@ -33,7 +33,8 @@ Design: [Photographer porfolio](https://dribbble.com/shots/22848649-Webdesign-ph
 
 *   Learn:
     *   JavaScript DOM
-    *   Chrome dev tools
+    *   Chrome dev tools: network, console, lighthouse.
+    *   Hosting JS code on live server alternative - Dead server
 *   Design is for desktop only
 
 ## 🧰 Getting Started
