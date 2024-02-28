@@ -52,6 +52,12 @@ Git - _download and install_
 https://git-scm.com
 ```
 
+Chrome Browser - _download and install_
+_(Other browsers can be used, but must be changed in package.json file "dev" script)_
+```
+https://www.google.com/chrome
+```
+
 ### 🏃 Run locally
 
 Would like to run this project locally? Open terminal and follow these steps:
@@ -89,4 +95,6 @@ Sensei: Rimantas [Github](https://github.com/belauzas)
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
+[Favicon generator](https://realfavicongenerator.net/)
+[Font Awsome](https://fontawesome.com/v4/)
 [Dead server](https://www.npmjs.com/package/dead-server) - Live server alternative with better maintenance.
